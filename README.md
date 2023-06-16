@@ -1,5 +1,5 @@
              Olá, mundo! 
-- 👩🏾Eu sou a LuMoraesT
+- 👩🏾Eu sou a Luciana Moraes
 - 🌱 Faculdade: Análise e Desenvolvimento de Sitema
 - 👩🏾‍💻Estudando: JavaScript
 - 📫 Contate-me para uma entrevista: 21 98327-4261
